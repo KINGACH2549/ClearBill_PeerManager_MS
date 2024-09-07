@@ -1,0 +1,13 @@
+app:
+  couchbase:
+    connection-string: couchbase://127.0.0.1
+    user-name: Administrator
+    password: Administrator
+    bucket-primary: friendShip
+server:
+  port: 8082
+logging:
+  level:
+    com:
+      clearbill:
+        friendshipmanagement: TRACE
