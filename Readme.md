@@ -1,4 +1,4 @@
-![Status](https://img.shields.io/badge/status-in-development-orange)
+![Status](https://img.shields.io/badge/status-in_development-orange)
 
 # Clear Bill - Peer Manager MS 
 
